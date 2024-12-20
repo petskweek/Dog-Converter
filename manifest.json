@@ -1,0 +1,13 @@
+{
+  "name": "Dog Converter",
+  "short_name": "Doggo",
+  "start_url": "/index.html",
+  "display": "browser",
+  "icons": [
+  {
+    "src": "Iro.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }
+  ]
+}
