@@ -1,13 +1,16 @@
 {
-  "name": "Dog Converter",
-  "short_name": "Doggo",
-  "start_url": "/index.html",
-  "display": "browser",
-  "icons": [
-  {
-    "src": "Iro.png",
-    "sizes": "72x72",
-    "type": "image/png"
+    "name": "Dog Converter",
+    "short_name": "Argie",
+    "icons": [
+    {
+      "src": "Iro.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+    ],
+    "theme_color": "#1e2226",
+    "background_color": "#1065a8",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/https://argiegwapo.com"
   }
-  ]
-}
